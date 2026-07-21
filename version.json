@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "notes": "- Fixed price-compare tile sizing\n- Added single-game folder support\n- Fixed hover state on Game Folders button",
+  "url": "https://github.com/your-org/your-repo/releases/download/v1.0.1/ScoutLauncher.Setup.1.0.1.exe"
+}
